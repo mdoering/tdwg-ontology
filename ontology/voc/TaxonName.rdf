@@ -293,6 +293,9 @@
       <dc:relation rdf:resource="http://rs.tdwg.org/ontology/voc/TaxonName#rankString"/>
    </owl:ObjectProperty>
 
+   <!-- TaxonRank::TaxonRankTerm -->
+   <owl:Class rdf:about="http://rs.tdwg.org/ontology/voc/TaxonRank#TaxonRankTerm"/>
+	
    <!-- TaxonName::rankString -->
    <owl:DatatypeProperty rdf:ID="rankString">
       <rdfs:label>Rank String</rdfs:label>
