@@ -218,6 +218,9 @@
       <dc:relation rdf:resource="http://rs.tdwg.org/ontology/voc/TaxonName#combinationAuthorship"/>
    </owl:ObjectProperty>
 
+   <!-- Team::Team -->
+   <owl:Class rdf:about="http://rs.tdwg.org/ontology/voc/Team#Team"/>
+
    <!-- TaxonName::year -->
    <owl:DatatypeProperty rdf:ID="year">
       <rdfs:label>Publication Year</rdfs:label>
