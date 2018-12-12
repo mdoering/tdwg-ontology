@@ -21,7 +21,7 @@
 
       <owl:versionInfo>0.3</owl:versionInfo>
 
-      <rdfs:comment rdf:parseType="Literal"> This is not a full rendering of TaxonConcept as
+      <rdfs:comment rdf:datatype="xsd:string"> This is not a full rendering of TaxonConcept as
          presented in the Taxon Concept Schema 1.0. Not all the possible concept-concept
          relationships have been modelled just the basic set theory and taxonomic hierarchy
          relationships. RelationshipAssertions have not been included. These omissions will be
